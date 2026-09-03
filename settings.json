@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "24/7_Bot_Jannpro",
+    "username": "Welcome on ChaosCraftUnited",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Craft_Attack_.aternos.me",
-    "port": 36163,
+    "ip": "ChaosCraftUnited.aternos.me",
+    "port": 64553,
     "version": "",
     "try-creative": false
   },
